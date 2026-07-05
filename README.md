@@ -51,12 +51,7 @@ Med spas are one of the highest-value web design niches: design-forward, image-d
 
 Single self-contained HTML file. Inline CSS and JavaScript, no frameworks, no build step, no backend, no paid services, no external images. Fonts: Cormorant Garamond + Jost. Mobile-first, verified zero horizontal overflow from 360px to 1440px, no JavaScript errors.
 
-## Deploy
 
-1. Public repo (e.g. `aurelia-medspa`), upload `index.html`, this `README.md`, and the `screenshots/` folder.
-2. Settings > Pages > Deploy from a branch > `main` > `/root`.
-3. If the build shows a red mark, add an empty `.nojekyll` file to the root.
-4. Check the live URL in an Incognito window.
 
 ---
 
